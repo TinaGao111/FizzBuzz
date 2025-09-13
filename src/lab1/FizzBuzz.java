@@ -6,7 +6,7 @@ package lab1;
 class FizzBuzz {
 
     public static void main(String[] args) {
-        int i = a;
+        int a = 1;
         while (a < 100) {
 
             a = doFizzBuzz(a);
